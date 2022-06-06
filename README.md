@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaurShekhar
 - 👀 I’m interested in exploring.
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning GoLang and Solidity
 - 💞️ I’m looking to collaborate on BlockChain 
 
 
